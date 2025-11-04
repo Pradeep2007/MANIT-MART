@@ -7,7 +7,7 @@
 ## 🔗 Live Demo
 
 - 🌐 [Live Website](https://manit-mart-frontend.onrender.com/)
-- 💻 [GitHub Repository](https://github.com/KrishnaxVerma/Manit-Mart)
+- 💻 [GitHub Repository](https://github.com/Pradeep2007/MANIT-MART)
 
 ---
 
@@ -125,6 +125,6 @@ Manit-Mart/
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/krishnaxverma/)
-- [GitHub](https://github.com/KrishnaxVerma)
-- [Email](mailto:kv7477000@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pradeepsinghyadav/)
+- [GitHub](https://github.com/Pradeep2007/)
+- [Email](mailto:psy16198@gmail.com)
